@@ -1,17 +1,19 @@
 # MP3 Player 🎵
 
-MP3 Player is a desktop application for playing MP3 files.  
-This project was created as a learning exercise to explore the following technologies:
+MP3 Player is a Java-based desktop application designed for playing MP3 files. This project demonstrates the use of modern Java technologies and best practices in building user-friendly applications.
 
-- **JavaFX**: A library for building graphical user interfaces 🖼️  
-- **FXML**: A markup language for defining JavaFX UI 📝  
-- **CSS**: Used for styling the interface 🎨  
-- **Maven**: A build automation and dependency management tool 🛠️  
-- **Java Modules**: A modular system introduced in Java 9 📦  
+## Features
 
-## Features ✨
+- **Play MP3 files**: Enjoy high-quality playback of your favorite MP3 tracks.
+- **Pause and Resume**: Pause playback and resume it anytime.
+- **Skip Tracks**: Navigate through your playlist with ease.
+- **Track Information Display**: See details like the song title, artist, and duration.
+- **User-Friendly Interface**: Intuitive controls and modern design using JavaFX and CSS.
 
-- **Play MP3 files** ▶️  
-- **Pause and resume playback** ⏸️  
-- **Skip through tracks** ⏭️  
-- **Display information about the currently playing track** ℹ️  
+## Technologies Used
+
+- **JavaFX**: For creating the graphical user interface.
+- **FXML**: To define the UI layout.
+- **CSS**: To style the application.
+- **Maven**: For build automation and dependency management.
+- **Java Modules**: Leveraging the modular system introduced in Java 9.
